@@ -7,4 +7,16 @@ The Consumer Price Index (IPC-DI) measures the change in prices of a fixed set o
 \usage{
 data(ipc)
 }
+\format{
+A monthly time series, in variation (\%).
+Period: jan/2004 - may/2015.
+}
+\source{
+\url{http://portalibre.fgv.br/}
+}
+\examples{
+data(ipc)
+plot(ipc)
+}
+\keyword{IPC,CPI}
 
