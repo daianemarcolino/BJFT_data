@@ -1,0 +1,7 @@
+Package: BJFT_data
+Title: Dados do artigo BJFT
+Version: 1.0
+Author: Daiane M. de Mattos <daimmattos@gmail.com>
+Description: Dados do artigo BJFT.
+License: GPL(>=2)
+LazyData: true
