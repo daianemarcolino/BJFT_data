@@ -18,5 +18,4 @@ Period: jan/2004 - may/2015.
 data(ipc)
 plot(ipc)
 }
-\keyword{IPC,CPI}
 
